@@ -11,9 +11,7 @@ Desarrollo de modelos para análisis y procesamiento de imágenes:
 
 ### 🤖 Machine Learning
 Proyectos de aprendizaje supervisado y no supervisado:
-- **[Clasificación Multiclase con CatBoost](https://github.com/MiOrgIA/clasificador_catboost)**
-- **[Clustering con K-Means](https://github.com/MiOrgIA/clustering_kmeans)**
-- **[Predicción de Consumo Energético](https://github.com/MiOrgIA/prediccion_consumo_energetico)**
+- **[Análisis de datos](https://github.com/MiOrgIA/clasificador_catboost)**
 
 ### 🗣 Procesamiento de Lenguaje Natural (NLP)
 Aplicaciones que procesan y entienden el lenguaje humano:
